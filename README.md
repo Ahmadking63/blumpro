@@ -14,7 +14,7 @@ pkg install python rust git -y
 pkg install git
 ```
    ```bash
-   git clone https://github.com/Ahmadking63/blumpro.git
+   git clone https://github.com/Not-D4rkCipherX/blumpro.git
    ```
    ```bash
    cd blumpro
