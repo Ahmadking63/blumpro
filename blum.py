@@ -1093,9 +1093,9 @@ def task_main():
 def start():
     print(r"""
         
-▗▄▄▄▖▗▄▄▄▖  ▗▄▄▖ 
+▗▄▄▄▖ ▗▄▄▄▖ ▗▄▄▖ 
 ▐▌    ▐▌     ▐▌ ▐▌
-▐▛▀▀▘▐▛▀▀▘  ▐▛▀▘ 
+▐▛▀▀▘ ▐▛▀▀▘ ▐▛▀▘ 
 ▐▌    ▐▙▄▄▖  ▐▌   
                
 HACK NAME: BLUM pro
@@ -1103,10 +1103,11 @@ HACK NAME: BLUM pro
 CREATE BY: FARUK EARNING POINT 
 CONTRACT ON TELEGRAM: @FARUKKING63
 TELEGRAM CHANEL: https://t.me FarukEarningPoint
-              
-        Pilihan :
-        1. Claim Daily & Play Game
-        2. Clear Task
+YOUTUBE CHNNEL: FARUK EARNING POINT (FEB)              
+
+ Pilihan :
+1. Claim Daily & Play Game
+2. Clear Task
           
           """)
     selector = input("Select the one  : ").strip().lower()
